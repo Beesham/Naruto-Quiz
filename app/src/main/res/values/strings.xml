@@ -1,0 +1,92 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Naruto Quiz</string>
+    <string name="submit" translatable="true">submit</string>
+    <string name="results" translatable="true">Results: <xliff:g id="grade" sample="3">%d</xliff:g>/12</string>
+    <string name="results_bad" translatable="true">No correct answers...</string>
+
+
+    <string name="question_1" translatable="true">Members of the Hyuga clan are known for which kekkai genkai?</string>
+    <string name="q1_option1" translatable="true">Sharingan</string>
+    <string name="q1_option2" translatable="true">Byakugan</string>
+    <string name="q1_option3" translatable="true">Ice Jutsu</string>
+    <string name="q1_option4" translatable="true">Rinnengan</string>
+    <string name="q1_answer" translatable="true">Byakugan</string>
+
+
+    <string name="question_2" translatable="true">Kimimaro was a member of which clan?</string>
+    <string name="q2_option1" translatable="true">Taguya</string>
+    <string name="q2_option2" translatable="true">Kagura</string>
+    <string name="q2_option3" translatable="true">Pachinko</string>
+    <string name="q2_option4" translatable="true">Kaguya</string>
+    <string name="q2_answer" translatable="true">Kaguya</string>
+
+
+    <string name="question_3" translatable="true">Where did the chunin exams second stage take place?</string>
+    <string name="q3_option1" translatable="true">The Forest of Konohagakure</string>
+    <string name="q3_option2" translatable="true">The Forest of Death</string>
+    <string name="q3_option3" translatable="true">The Forest of Pain</string>
+    <string name="q3_option4" translatable="true">The Lost Woods</string>
+    <string name="q3_answer" translatable="true">The Forest of Death</string>
+
+
+    <string name="question_4" translatable="true">Sasuke is cursed with which form of the Cursed Seal during the exams?</string>
+    <string name="q4_option1" translatable="true">The Cursed Seal of Heaven</string>
+    <string name="q4_option2" translatable="true">The Cursed Seal of Earth</string>
+    <string name="q4_option3" translatable="true">The Cursed Seal of the Sea</string>
+    <string name="q4_option4" translatable="true">The Cursed Seal of the Snake</string>
+    <string name="q4_answer" translatable="true">The Cursed Seal of Heaven</string>
+
+
+    <string name="question_5" translatable="true">What is the name of Orochimaru\'s resurrection jutsu?</string>
+    <string name="q5_option1" translatable="true">Edo Bento</string>
+    <string name="q5_option2" translatable="true">Shinra Tensei</string>
+    <string name="q5_option3" translatable="true">Buban Baika</string>
+    <string name="q5_option4" translatable="true">Edo Tensei</string>
+    <string name="q5_answer" translatable="true">Edo Tensei</string>
+
+
+    <string name="question_6" translatable="true">How many tails does Naruto release in his battle against Orochimaru on the bridge?</string>
+    <string name="q6_option1" translatable="true">1</string>
+    <string name="q6_option2" translatable="true">2</string>
+    <string name="q6_option3" translatable="true">3</string>
+    <string name="q6_option4" translatable="true">4</string>
+    <string name="q6_answer" translatable="true">4</string>
+
+
+    <string name="question_7" translatable="true">How many jinchuriki do Kakuzu and Hidan capture as seen in the manga?</string>
+    <string name="q7_option1" translatable="true">1</string>
+    <string name="q7_option2" translatable="true">2</string>
+    <string name="q7_option3" translatable="true">3</string>
+    <string name="q7_option4" translatable="true">4</string>
+    <string name="q7_answer" translatable="true">2</string>
+
+
+    <string name="question_8" translatable="true">Why does Sasuke let Naruto live after their battle at the Valley of the End?</string>
+    <string name="q8_option1" translatable="true">He does so to disobey his brother\'s instructions</string>
+    <string name="q8_option2" translatable="true">Naruto actually defeats Sasuke</string>
+    <string name="q8_option3" translatable="true">Sasuke loves Naruto</string>
+    <string name="q8_option4" translatable="true">He was too excited to get to Orochimaru\'s lair</string>
+    <string name="q8_answer" translatable="true">He does so to disobey his brother\'s instructions</string>
+
+
+    <string name="question_9" translatable="true">Where does Tsunade\'s fear of blood come from?</string>
+    <string name="q9_option1" translatable="true">She had been afraid of it at birth</string>
+    <string name="q9_option2" translatable="true">Blood will ruin her clothes</string>
+    <string name="q9_option3" translatable="true">She failed to save her loved ones from dying bloody deaths</string>
+    <string name="q9_option4" translatable="true">The slugs taught her that blood is very scary</string>
+    <string name="q9_answer" translatable="true">She failed to save her loved ones from dying bloody deaths</string>
+
+
+    <string name="question_10" translatable="true">What was the message Jiraiya left behind before dying in his battle with Pain?</string>
+    <string name="q10_option1" translatable="true">The real one is among them</string>
+    <string name="q10_option2" translatable="true">The real one is not with them</string>
+    <string name="q10_option3" translatable="true">The real one doesn\'t exist</string>
+    <string name="q10_option4" translatable="true">Become a great ninja, Naruto!</string>
+    <string name="q10_answer" translatable="true">The real one is not with them</string>
+
+    <string name="question_11" translatable="true">Select the hand signs used to activate the Justsu Chidori</string>
+
+    <string name="question_12" translatable="true">Kakashi taught Sasuke the _________ , also known as \'One Thousand Birds\'</string>
+    <string name="q12_answer" translatable="true">chidori</string>
+
+</resources>
