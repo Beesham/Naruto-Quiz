@@ -347,7 +347,7 @@
                 android:id="@+id/question10_textview"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q10_option1"/>
+                android:text="@string/question_10"/>
 
             <RadioGroup
                 android:id="@+id/question10_radiogroup"

@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private RadioButton question10AnswerRadiobutton;
 
     private CheckBox question11Checkbox1;
+    private CheckBox question11Checkbox2;
     private CheckBox question11Checkbox3;
     private CheckBox question11Checkbox4;
 
@@ -48,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         question10AnswerRadiobutton = (RadioButton) findViewById(R.id.q10_answer);
 
         question11Checkbox1 = (CheckBox) findViewById(R.id.hand_sign_question_checkbox1);
+        question11Checkbox2 = (CheckBox) findViewById(R.id.hand_sign_question_checkbox2);
         question11Checkbox3 = (CheckBox) findViewById(R.id.hand_sign_question_checkbox3);
         question11Checkbox4 = (CheckBox) findViewById(R.id.hand_sign_question_checkbox4);
 
@@ -86,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
         if (question10AnswerRadiobutton.isChecked()) {
             grade++;
         }
-        if (question11Checkbox1.isChecked() && question11Checkbox3.isChecked() && question11Checkbox4.isChecked()) {
+        if (question11Checkbox1.isChecked() && !question11Checkbox2.isChecked() && question11Checkbox3.isChecked() && question11Checkbox4.isChecked()) {
             grade++;
         }
         if(question12Edittext.getText().length() > 0){
